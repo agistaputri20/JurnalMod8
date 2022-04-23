@@ -1,0 +1,20 @@
+{
+  "title": "The Shawshank Redemption",
+  "director": "Frank Darabont",
+  "stars": [ "Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler" ],
+  "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+}
+
+{
+  "title": "The Godfather",
+  "director": "Francis Ford Coppola",
+  "stars": [ "Marlon Brando, Al Pacino, James Caan, Diane Keaton" ],
+  "description": "The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son."
+}
+
+{
+  "title": "The Dark Knight",
+  "director": "Christopher Nolan",
+  "stars": [ "Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine" ],
+  "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+}
