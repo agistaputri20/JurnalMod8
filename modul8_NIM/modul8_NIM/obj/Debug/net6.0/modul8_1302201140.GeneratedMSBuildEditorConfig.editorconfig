@@ -1,0 +1,16 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = modul8_1302201140
+build_property.RootNamespace = modul8_1302201140
+build_property.ProjectDir = E:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\JurnalMod8\modul8_NIM\modul8_NIM\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\JurnalMod8\modul8_NIM\modul8_NIM
+build_property._RazorSourceGeneratorDebug = 
